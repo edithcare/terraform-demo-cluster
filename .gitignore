@@ -1,0 +1,5 @@
+onelogin.sdk.json
+.terraform/
+*.backup
+*.tfstate
+*.tfplan
